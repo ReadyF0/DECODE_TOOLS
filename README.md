@@ -1,5 +1,5 @@
 # DECODE_TOOLS
-char解码：
+Char解码：
 
 ![image](https://user-images.githubusercontent.com/42734394/115986229-d124b300-a5e1-11eb-99d2-adc52153d655.png)
 
